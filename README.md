@@ -1,6 +1,12 @@
-# aula_loja_virtual
+# Responsive Virtual Store
 
 A new Flutter project.
+
+This project it's a screen with responsive design simulating a virtual store wich has an app bar with the logo and some actions and a body with the store items.
+
+My goal with this project is to show some responsive widgets in work and how they are important in a Flutter Project.
+
+It's used the [Device Preview Package](https://pub.dev/packages/device_preview) to simulate the different devices that the application can be built on and see the responsiveness in action.
 
 ## Getting Started
 
